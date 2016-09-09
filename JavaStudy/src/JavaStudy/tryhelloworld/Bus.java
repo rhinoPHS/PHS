@@ -5,5 +5,9 @@ public class Bus extends Car {
 	{
 		System.out.println("ㅃㅃ");
 	}
-
+	public void run()
+	{
+		super.run();
+		System.out.println("Bus의 run메소드");
+	}
 }
