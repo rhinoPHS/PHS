@@ -7,7 +7,12 @@ public class forEachExam {
 
 		    for(int value:iarr){
 		        System.out.println(value);
+		        
+		    for(int value1:iarr)
+		    {
+		    	System.out.println(value1);
 		    }
+		  }
 		
 	}
 
