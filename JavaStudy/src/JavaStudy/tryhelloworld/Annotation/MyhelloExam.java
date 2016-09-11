@@ -13,6 +13,9 @@ public class MyhelloExam {
 					hello.hello();
 				}
 			}
+			else{
+				hello.hello();
+			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
