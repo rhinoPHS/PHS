@@ -6,7 +6,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-//xxxxxxxxx
+
 /*
  * char단위 입출력 클래스는 클래스 이름이 Reader나 Writer로 끝이 납니다.
 
